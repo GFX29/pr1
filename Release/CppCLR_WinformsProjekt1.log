@@ -1,0 +1,13 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Greendor29\Desktop\2_5377643214616396970\Form3.h(728,114): error C2065: connect: необъявленный идентификатор
+  Form1.cpp
+C:\Users\Greendor29\Desktop\2_5377643214616396970\Form3.h(728,114): error C2065: connect: необъявленный идентификатор
+  Form2.cpp
+C:\Users\Greendor29\Desktop\2_5377643214616396970\Form3.h(728,114): error C2065: connect: необъявленный идентификатор
+  Form3.cpp
+C:\Users\Greendor29\Desktop\2_5377643214616396970\Form3.h(728,114): error C2065: connect: необъявленный идентификатор
+  Form4.cpp
+C:\Users\Greendor29\Desktop\2_5377643214616396970\Form3.h(728,114): error C2065: connect: необъявленный идентификатор
+  Form5.cpp
+C:\Users\Greendor29\Desktop\2_5377643214616396970\Form3.h(728,114): error C2065: connect: необъявленный идентификатор
+  Создание кода...
